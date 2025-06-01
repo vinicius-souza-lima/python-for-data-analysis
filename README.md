@@ -1,0 +1,1 @@
+Repository for studies on the book "Python for Data Analysis"
